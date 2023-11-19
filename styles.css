@@ -1,0 +1,26 @@
+body {
+    display: flex;
+    flex-direction: column;
+}
+
+a {
+    text-decoration: none;
+}
+
+ul {
+    display: flex;
+    list-style-type: none;
+    gap: 10px;
+}
+
+.navbar {
+    display:flex;
+    justify-content: space-around;
+}
+
+.section-one-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+}
